@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708043768140",
+    "project_id": "listbook-58cec",
+    "storage_bucket": "listbook-58cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708043768140:android:0e34b93920be22c89f8fe9",
+        "android_client_info": {
+          "package_name": "com.example.book_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__jeQcwX-fPJbWlpJnYgkvMPLfPvN08I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
